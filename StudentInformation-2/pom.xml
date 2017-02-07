@@ -6,8 +6,8 @@
 	<groupId>com.dharbor</groupId>
 	<artifactId>StudentInformation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
-<!-- Comment for StudentInformation-2       -->
+	<packaging>jar</packaging> 
+<!-- Comment for StudentInformation-2        -->
 	<name>StudentInformation</name>
 	<description>Spring Boot for entity StudentInformation</description>
 
